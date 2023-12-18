@@ -1,0 +1,9 @@
+[
+  { "username": "Abanoub", "password": "Moi@123", "role": "admin" },
+  { "username": "teacher1", "password": "teacher123", "role": "teacher" },
+  { "username": "teacher2", "password": "teacher456", "role": "teacher" },
+  { "username": "student1", "password": "student123", "role": "student" },
+  { "username": "student2", "password": "student456", "role": "student" },
+  { "username": "parent1", "password": "parent123", "role": "parent" },
+  { "username": "parent2", "password": "parent456", "role": "parent" }
+]
